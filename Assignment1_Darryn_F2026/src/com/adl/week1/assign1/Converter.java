@@ -3,8 +3,7 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.Scanner;
 
-/*
- **
+/**
  * @author Darryn
  * @since Sept 17 2026
  * Super class Converter that handles all conversion processes 
