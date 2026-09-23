@@ -1,7 +1,6 @@
 package com.adl.week1.assign1;
 
-/*
- **
+/**
  * @author Darryn
  * @since Sept 17 2026
  * Driver class
